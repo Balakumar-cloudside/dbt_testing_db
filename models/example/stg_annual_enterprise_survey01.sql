@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `cloudside-academy.dbt_sample_data.annual-enterprise-survey01`),
+SELECT * FROM `lyrical-medley-398809.dbt_sample_db.annual-enterprise-survey01`),
 
 ae AS ( 
 SELECT 
