@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `lyrical-medley-398809.dbt_sample_db.annual-enterprise-survey02`),
+SELECT * FROM `lyrical-medley-398809.dbt_sample_db.annual-enterprise-survey002`),
 
 n AS ( 
 SELECT 
